@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.xworkz.data_company.entity.CompanyEntity"/>
+    <fullyQualifiedTypeName name="com.xworkz.data_company.dao.CompanyDAOImpl"/>
+    <fullyQualifiedTypeName name="com.xworkz.data_company.dao.CompanyDAO"/>
+    <fullyQualifiedTypeName name="org.hibernate.cfg.Configuration"/>
+    <fullyQualifiedTypeName name="org.hibernate.SessionFactory"/>
+    <fullyQualifiedTypeName name="org.hibernate.Session"/>
+    <fullyQualifiedTypeName name="org.hibernate.Transaction"/>
+    <fullyQualifiedTypeName name="com.xworkz.data_company.entity.CountryEntity"/>
+    <fullyQualifiedTypeName name="com.xworkz.data_company.dao.CountryDAO"/>
+    <fullyQualifiedTypeName name="com.xworkz.data_company.dao.CountryDAOImp"/>
+    <fullyQualifiedTypeName name="com.xworkz.data_company.entity.StateEntity"/>
+    <fullyQualifiedTypeName name="com.xworkz.data_company.dao.StateDAO"/>
+    <fullyQualifiedTypeName name="com.xworkz.data_company.dao.StateDAOImp"/>
+    <fullyQualifiedTypeName name="com.xworkz.data_company.entity.CityEntity"/>
+    <fullyQualifiedTypeName name="com.xworkz.data_company.dao.CityDAO"/>
+    <fullyQualifiedTypeName name="com.xworkz.data_company.dao.CityDAOImp"/>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="javax.persistence.Entity"/>
+    <fullyQualifiedTypeName name="javax.persistence.Table"/>
+    <fullyQualifiedTypeName name="javax.persistence.Id"/>
+    <fullyQualifiedTypeName name="javax.persistence.Column"/>
+    <fullyQualifiedTypeName name="com.xworkz.data_company.entity.PatientEntity"/>
+    <fullyQualifiedTypeName name="com.xworkz.data_company.dao.PatientDAO"/>
+    <fullyQualifiedTypeName name="com.xworkz.data_company.dao.PatientDAOImp"/>
+</qualifiedTypeNameHistroy>

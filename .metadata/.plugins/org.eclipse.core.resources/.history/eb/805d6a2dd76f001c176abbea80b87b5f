@@ -1,0 +1,17 @@
+package com.xworkz.data_company.entity;
+
+import java.io.Serializable;
+
+import javax.persistence.Entity;
+import javax.persistence.Id;
+import javax.persistence.Table;
+@Entity
+@Table(name="city_info")
+public class CityEntity implements Serializable {
+	
+	@Id
+	
+	private int stateId;
+	
+
+}
