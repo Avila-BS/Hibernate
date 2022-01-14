@@ -53,4 +53,8 @@
     <fullyQualifiedTypeName name="com.xworkz.tour.entity.BiscuitEntity"/>
     <fullyQualifiedTypeName name="com.xworkz.tour.dao.BiscuitDAOImpl"/>
     <fullyQualifiedTypeName name="com.xworkz.tour.dao.BiscuitDAO"/>
+    <fullyQualifiedTypeName name="org.hibernate.mapping.List"/>
+    <fullyQualifiedTypeName name="javax.persistence.PersistenceException"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>
