@@ -11,7 +11,7 @@ import com.xworkz.tour.entity.MedicineEntity;
 import com.xworkz.tour.utility.EMFUtil;
 
 public class MedicineDAOImpl implements MedicineDAO {
-	
+
 	public void put(MedicineEntity entity)
 	{
 
@@ -21,45 +21,44 @@ public class MedicineDAOImpl implements MedicineDAO {
 		tx.begin();
 		entityManager.persist(entity);
 		tx.commit();
-		
+
 	}
 	@Override
 	public void putAll(List<MedicineEntity> entities)
 	{
 		EntityManagerFactory emf=EMFUtil.getEmf();
 		EntityManager entityManager=emf.createEntityManager();
-		//EntityTransaction tx=entityManager.getTransaction();
-		
-		
+		EntityTransaction tx=entityManager.getTransaction();
+		tx.begin();
+		try
+		{
 			for(MedicineEntity medicine:entities)
 			{
 				entityManager.persist(medicine);
-				EntityTransaction tx=entityManager.getTransaction();
-				tx.begin();
 				int flushCount=0;
-				try
-				{
-				for(int i=0;i<35;i++)
-				{
-				
+
 				if(flushCount==10)
 				{
 					entityManager.flush();
 					flushCount=0;
 					entityManager.clear();
+					System.out.println("batch flushed");
 				}
 				flushCount++;
-				
-				}
-				}
-				catch(PersistenceException e)
-				{
-					e.printStackTrace();
-					tx.rollback();
-				}
-				tx.commit();;
+
 			}
-		
+
+			tx.commit();
+
+		}
+		catch(PersistenceException e)
+		{
+			e.printStackTrace();
+			tx.rollback();
+		}
+
+
+
 	}
 
 }

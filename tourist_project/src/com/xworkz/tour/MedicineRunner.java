@@ -47,11 +47,21 @@ public class MedicineRunner {
 		MedicineEntity entity33 = new MedicineEntity(34,"Wikoryl","RR","01-08-2021","05-05-2023","BP",28);
 		MedicineEntity entity34 = new MedicineEntity(35,"Welminic","Shastry","12-08-2020","09-06-2024","Migrin",80);
 		MedicineEntity entity35 = new MedicineEntity(36,"Paracetomol","Appollo","01-08-2021","05-05-2023","Fever",250);
+		List<MedicineEntity> list=new ArrayList<MedicineEntity>();
+		MedicineEntity entityy=null;
+		for(int i=90;i<120;i++)
+		{
+			 entityy = new MedicineEntity(i,"Paracetomol","Appollo","01-08-2021","05-05-2023","Fever",250);
+			 list.add(entityy);
+			
+		}
+			
+		
 		
 			MedicineDAO dao=new MedicineDAOImpl();
-            List<MedicineEntity> list=new ArrayList<MedicineEntity>();
+        
           //  list.add(entity1);
-            list.add(entity2);
+           /* list.add(entity2);
             list.add(entity3);
             list.add(entity4);
             list.add(entity5);
@@ -83,9 +93,11 @@ public class MedicineRunner {
             list.add(entity32);
             list.add(entity33);
             list.add(entity34);
-            list.add(entity35);
+            list.add(entity35);*/
             
-            dao.putAll(list);
+          list.add(entityy);
+          
+          dao.putAll(list);
             
 	}
 
