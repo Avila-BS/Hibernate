@@ -7,14 +7,32 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
+import javax.persistence.NamedQueries;
+import javax.persistence.NamedQuery;
 import javax.persistence.Table;
 @Entity
 @Table(name="web_details")
+@NamedQueries({
+	@NamedQuery(name="getByNameGoogle",query="select wEntity from WebsiteEntity as wEntity where wEntity.webName='Google'"),
+	@NamedQuery(name="getByLikeURL",query="select web from WebsiteEntity as web where web.webURL like 'www.mi%'"),
+	@NamedQuery(name="getByMinSince",query="select minSince from WebsiteEntity as minSince where minSince.webSince="+ "(select min(we.webSince) from WebsiteEntity we)" ),
+	@NamedQuery(name="getByMaxSince",query="select maxSince from WebsiteEntity as maxSince where maxSince.webSince="+ "(select max(wen.webSince) from WebsiteEntity wen)"),
+	@NamedQuery(name="getBySecondMaxSince",query="select secondMax from WebsiteEntity as secondMax where secondMax.webSince="+
+	"(select max(web.webSince) from WebsiteEntity as web where web.webSince<" +
+			"(select max(maximum.webSince) from WebsiteEntity as maximum))"),
+	@NamedQuery(name="getBySecondMinSince",query="select second from WebsiteEntity as second where second.webSince="+
+			"(select min(web.webSince) from WebsiteEntity as web where web.webSince>" +
+			"(select min(minimum.webSince) from WebsiteEntity as minimum))")
+
+
+
+})
 public class WebsiteEntity implements Serializable {
 	@Id
 	@GeneratedValue(strategy=GenerationType.IDENTITY)
 	@Column(name="web_id")
 	private int websiteId;
+
 	@Column(name="web_name")
 	private String webName;
 	@Column(name="web_url")
@@ -25,8 +43,8 @@ public class WebsiteEntity implements Serializable {
 	private String webDomain;
 	@Column(name="web_owner")
 	private String webOwner;
-	
-	
+
+
 	public WebsiteEntity() {
 		super();
 	}
@@ -35,7 +53,7 @@ public class WebsiteEntity implements Serializable {
 	public WebsiteEntity( String webName, String webURL, int webSince, String webDomain,
 			String webOwner) {
 		super();
-		
+
 		this.webName = webName;
 		this.webURL = webURL;
 		this.webSince = webSince;
@@ -160,8 +178,8 @@ public class WebsiteEntity implements Serializable {
 			return false;
 		return true;
 	}
-	
-	
-	
+
+
+
 
 }

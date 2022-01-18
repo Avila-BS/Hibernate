@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.xworkz.data_company.entity.CompanyEntity"/>
-    <fullyQualifiedTypeName name="com.xworkz.data_company.dao.CompanyDAOImpl"/>
-    <fullyQualifiedTypeName name="com.xworkz.data_company.dao.CompanyDAO"/>
-    <fullyQualifiedTypeName name="org.hibernate.SessionFactory"/>
-    <fullyQualifiedTypeName name="org.hibernate.Session"/>
-    <fullyQualifiedTypeName name="org.hibernate.Transaction"/>
     <fullyQualifiedTypeName name="com.xworkz.data_company.entity.CountryEntity"/>
     <fullyQualifiedTypeName name="com.xworkz.data_company.dao.CountryDAO"/>
     <fullyQualifiedTypeName name="com.xworkz.data_company.dao.CountryDAOImp"/>
@@ -60,4 +54,10 @@
     <fullyQualifiedTypeName name="com.xworkz.data_company.MyClass.ChildClass"/>
     <fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
     <fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
+    <fullyQualifiedTypeName name="javax.persistence.NamedQueries"/>
+    <fullyQualifiedTypeName name="javax.persistence.NamedQuery"/>
+    <fullyQualifiedTypeName name="javax.persistence.Query"/>
+    <fullyQualifiedTypeName name="com.xworkz.tour.dao.WebsiteDAO"/>
+    <fullyQualifiedTypeName name="com.xworkz.tour.dao.WebsiteDAOImpl"/>
+    <fullyQualifiedTypeName name="com.xworkz.tour.entity.WebsiteEntity"/>
 </qualifiedTypeNameHistroy>

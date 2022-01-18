@@ -29,9 +29,10 @@ public class WebsiteRunner {
 		WebsiteEntity entity18=new WebsiteEntity("AcademicEarth","www.academicearth.org",2017,".org","Andrena");
 		WebsiteEntity entity19=new WebsiteEntity("Coursera","www.coursera.org",2020,".org","Aliana");
 		WebsiteEntity entity20=new WebsiteEntity("Alaska University","www.alaska.edu",1999,".edu","Alaska");
+		WebsiteEntity entity21=new WebsiteEntity("Reva University","www.reva.edu",2021,".edu","Alaska");
 		
 		WebsiteDAO dao=new WebsiteDAOImpl();
-		dao.add(entity1);
+		/*dao.add(entity1);
 		dao.add(entity2);
 		dao.add(entity3);
 		dao.add(entity4);
@@ -50,7 +51,8 @@ public class WebsiteRunner {
 		dao.add(entity17);
 		dao.add(entity18);
 		dao.add(entity19);
-		dao.add(entity20);
+		dao.add(entity20);*/
+		dao.add(entity21);
 		
 
 	}
