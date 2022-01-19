@@ -1762,3 +1762,182 @@
 2022-01-19 01:31:44,930 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\src\main\resources
 2022-01-19 01:31:44,932 [Worker-75: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2022-01-19 01:31:44,934 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\src\test\resources
+2022-01-19 12:41:28,972 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-01-19 14:14:49,787 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-01-19 14:18:11,946 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 14:18:11,950 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\data_company\src\main\resources
+2022-01-19 14:18:11,952 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 14:18:11,953 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\data_company\src\test\resources
+2022-01-19 14:18:15,982 [Worker-14: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.xworkz:tourist_project:0.0.1-SNAPSHOT @ C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\pom.xml.
+2022-01-19 14:18:17,818 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.22/lombok-1.18.22.pom
+2022-01-19 14:18:18,352 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.22/lombok-1.18.22.pom
+2022-01-19 14:18:18,662 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.22/lombok-1.18.22.jar
+2022-01-19 14:18:34,037 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.22/lombok-1.18.22.jar
+2022-01-19 14:18:34,605 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 14:18:34,607 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\src\main\resources
+2022-01-19 14:18:34,609 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 14:18:34,611 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\src\test\resources
+2022-01-19 14:18:35,781 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 14:18:35,782 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\src\main\resources
+2022-01-19 14:18:35,785 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 14:18:35,787 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\src\test\resources
+2022-01-19 14:18:39,876 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.22/lombok-1.18.22-sources.jar
+2022-01-19 14:18:56,064 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.22/lombok-1.18.22-sources.jar
+2022-01-19 14:18:56,144 [Worker-19: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.projectlombok:lombok:1.18.22
+2022-01-19 14:18:56,753 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 14:18:56,755 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\src\main\resources
+2022-01-19 14:18:56,757 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 14:18:56,758 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\src\test\resources
+2022-01-19 14:19:09,596 [Worker-22: Launching Executing install in C__Users_avila_OneDrive_Desktop_AdvanceJava_tourist_project] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project
+2022-01-19 14:19:09,597 [Worker-22: Launching Executing install in C__Users_avila_OneDrive_Desktop_AdvanceJava_tourist_project] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2022-01-19 14:19:12,992 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 14:19:12,994 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\src\main\resources
+2022-01-19 14:19:12,996 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 14:19:12,997 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\src\test\resources
+2022-01-19 14:19:48,416 [Worker-19: Launching Executing install in C__Users_avila_OneDrive_Desktop_AdvanceJava_tourist_project] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project
+2022-01-19 14:19:48,416 [Worker-19: Launching Executing install in C__Users_avila_OneDrive_Desktop_AdvanceJava_tourist_project] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2022-01-19 14:19:52,215 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 14:19:52,216 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\src\main\resources
+2022-01-19 14:19:52,217 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 14:19:52,218 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\src\test\resources
+2022-01-19 14:20:17,199 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-01-19 14:20:17,680 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.xworkz:tourist_project:0.0.1-SNAPSHOT @ C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\pom.xml.
+2022-01-19 14:20:18,028 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tourist_project/src
+2022-01-19 14:20:18,030 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /tourist_project/src/test/java because it overlaps with /tourist_project/src
+2022-01-19 14:20:18,388 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-01-19 14:20:19,740 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 14:20:19,741 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\src\main\resources
+2022-01-19 14:20:19,744 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 14:20:19,745 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\src\test\resources
+2022-01-19 14:36:09,831 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-01-19 14:37:28,894 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 14:37:28,897 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\src\main\resources
+2022-01-19 14:37:28,901 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 14:37:28,903 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\src\test\resources
+2022-01-19 14:43:49,465 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 14:43:49,467 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\src\main\resources
+2022-01-19 14:43:49,470 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 14:43:49,472 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\src\test\resources
+2022-01-19 14:44:05,290 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 14:44:05,292 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\src\main\resources
+2022-01-19 14:44:05,295 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 14:44:05,297 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\src\test\resources
+2022-01-19 14:45:35,400 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 14:45:35,402 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\src\main\resources
+2022-01-19 14:45:35,405 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 14:45:35,407 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\src\test\resources
+2022-01-19 20:48:22,078 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-01-19 20:50:52,781 [Worker-18: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.xworkz:SingletonEMF:0.0.1-SNAPSHOT @ C:\Users\avila\OneDrive\Desktop\AdvanceJava\SingletonEMF\pom.xml.
+2022-01-19 20:50:55,102 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 20:50:55,105 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\SingletonEMF\src\main\resources
+2022-01-19 20:50:55,107 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 20:50:55,108 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\SingletonEMF\src\test\resources
+2022-01-19 20:50:55,137 [Worker-18: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SingletonEMF/src
+2022-01-19 20:50:55,139 [Worker-18: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /SingletonEMF/src/test/java because it overlaps with /SingletonEMF/src
+2022-01-19 20:50:55,323 [Worker-18: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-01-19 20:50:55,791 [Worker-18: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.xworkz:SingletonEMF:0.0.1-SNAPSHOT @ C:\Users\avila\OneDrive\Desktop\AdvanceJava\SingletonEMF\pom.xml.
+2022-01-19 20:50:56,174 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 20:50:56,174 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\SingletonEMF\src\main\resources
+2022-01-19 20:50:56,177 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 20:50:56,178 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\SingletonEMF\src\test\resources
+2022-01-19 20:50:56,518 [Worker-18: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SingletonEMF/src
+2022-01-19 20:50:56,519 [Worker-18: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /SingletonEMF/src/test/java because it overlaps with /SingletonEMF/src
+2022-01-19 20:50:56,626 [Worker-18: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-01-19 20:50:56,738 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 20:50:56,739 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\SingletonEMF\src\main\resources
+2022-01-19 20:50:56,741 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 20:50:56,742 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\SingletonEMF\src\test\resources
+2022-01-19 20:51:47,762 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.xworkz:SingletonEMF:0.0.1-SNAPSHOT @ C:\Users\avila\OneDrive\Desktop\AdvanceJava\SingletonEMF\pom.xml.
+2022-01-19 20:51:48,198 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 20:51:48,200 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\SingletonEMF\src\main\resources
+2022-01-19 20:51:48,202 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 20:51:48,204 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\SingletonEMF\src\test\resources
+2022-01-19 20:51:48,775 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 20:51:48,776 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\SingletonEMF\src\main\resources
+2022-01-19 20:51:48,778 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 20:51:48,779 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\SingletonEMF\src\test\resources
+2022-01-19 20:52:08,196 [Worker-0: Launching Executing install in C__Users_avila_OneDrive_Desktop_AdvanceJava_SingletonEMF] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\avila\OneDrive\Desktop\AdvanceJava\SingletonEMF
+2022-01-19 20:52:08,197 [Worker-0: Launching Executing install in C__Users_avila_OneDrive_Desktop_AdvanceJava_SingletonEMF] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2022-01-19 20:52:11,407 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 20:52:11,408 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\SingletonEMF\src\main\resources
+2022-01-19 20:52:11,409 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 20:52:11,410 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\SingletonEMF\src\test\resources
+2022-01-19 20:52:24,580 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-01-19 20:52:24,878 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.xworkz:SingletonEMF:0.0.1-SNAPSHOT @ C:\Users\avila\OneDrive\Desktop\AdvanceJava\SingletonEMF\pom.xml.
+2022-01-19 20:52:25,273 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SingletonEMF/src
+2022-01-19 20:52:25,274 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /SingletonEMF/src/test/java because it overlaps with /SingletonEMF/src
+2022-01-19 20:52:25,499 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-01-19 20:52:25,742 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 20:52:25,743 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\SingletonEMF\src\main\resources
+2022-01-19 20:52:25,745 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 20:52:25,746 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\SingletonEMF\src\test\resources
+2022-01-19 20:53:12,303 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 20:53:12,304 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\SingletonEMF\src\main\resources
+2022-01-19 20:53:12,305 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 20:53:12,307 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\SingletonEMF\src\test\resources
+2022-01-19 20:53:38,352 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 20:53:38,354 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\SingletonEMF\src\main\resources
+2022-01-19 20:53:38,355 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 20:53:38,357 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\SingletonEMF\src\test\resources
+2022-01-19 20:56:05,374 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 20:56:05,375 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\SingletonEMF\src\main\resources
+2022-01-19 20:56:05,377 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 20:56:05,378 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\SingletonEMF\src\test\resources
+2022-01-19 20:57:07,653 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 20:57:07,655 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\src\main\resources
+2022-01-19 20:57:07,656 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 20:57:07,657 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\src\test\resources
+2022-01-19 21:02:03,106 [Worker-20: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.xworkz:tourist_project:0.0.1-SNAPSHOT @ C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\pom.xml.
+2022-01-19 21:02:03,199 [Worker-20: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/SingletonEMF: com.xworkz:SingletonEMF:0.0.1-SNAPSHOT with classifier  to /SingletonEMF/target/classes
+2022-01-19 21:02:03,390 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 21:02:03,391 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\src\main\resources
+2022-01-19 21:02:03,393 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 21:02:03,395 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\src\test\resources
+2022-01-19 21:02:24,021 [Worker-7: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/SingletonEMF: com.xworkz:SingletonEMF:0.0.1-SNAPSHOT with classifier  to /SingletonEMF/target/classes
+2022-01-19 21:02:24,025 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 21:02:24,026 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\src\main\resources
+2022-01-19 21:02:24,026 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 21:02:24,027 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\src\test\resources
+2022-01-19 21:04:20,572 [Worker-20: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.xworkz:tourist_project:0.0.1-SNAPSHOT @ C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\pom.xml.
+2022-01-19 21:04:20,635 [Worker-20: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/SingletonEMF: com.xworkz:SingletonEMF:0.0.1-SNAPSHOT with classifier  to /SingletonEMF/target/classes
+2022-01-19 21:04:20,785 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 21:04:20,786 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\src\main\resources
+2022-01-19 21:04:20,789 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 21:04:20,790 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\src\test\resources
+2022-01-19 21:04:42,620 [Worker-20: Launching Executing install in C__Users_avila_OneDrive_Desktop_AdvanceJava_tourist_project] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project
+2022-01-19 21:04:42,620 [Worker-20: Launching Executing install in C__Users_avila_OneDrive_Desktop_AdvanceJava_tourist_project] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2022-01-19 21:04:45,286 [Worker-23: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/SingletonEMF: com.xworkz:SingletonEMF:0.0.1-SNAPSHOT with classifier  to /SingletonEMF/target/classes
+2022-01-19 21:04:45,289 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 21:04:45,290 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\src\main\resources
+2022-01-19 21:04:45,291 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 21:04:45,293 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\src\test\resources
+2022-01-19 21:05:02,247 [Worker-23: Launching Executing install in C__Users_avila_OneDrive_Desktop_AdvanceJava_tourist_project] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project
+2022-01-19 21:05:02,248 [Worker-23: Launching Executing install in C__Users_avila_OneDrive_Desktop_AdvanceJava_tourist_project] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2022-01-19 21:05:05,517 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 21:05:05,519 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\src\main\resources
+2022-01-19 21:05:05,522 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 21:05:05,524 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\src\test\resources
+2022-01-19 21:05:19,508 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-01-19 21:05:19,568 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.xworkz:tourist_project:0.0.1-SNAPSHOT @ C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\pom.xml.
+2022-01-19 21:05:19,638 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/SingletonEMF: com.xworkz:SingletonEMF:0.0.1-SNAPSHOT with classifier  to /SingletonEMF/target/classes
+2022-01-19 21:05:19,831 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tourist_project/src
+2022-01-19 21:05:19,832 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /tourist_project/src/test/java because it overlaps with /tourist_project/src
+2022-01-19 21:05:20,044 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-01-19 21:05:21,311 [Worker-24: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/SingletonEMF: com.xworkz:SingletonEMF:0.0.1-SNAPSHOT with classifier  to /SingletonEMF/target/classes
+2022-01-19 21:05:21,314 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 21:05:21,316 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\src\main\resources
+2022-01-19 21:05:21,317 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 21:05:21,318 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\src\test\resources
+2022-01-19 21:06:10,122 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 21:06:10,124 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\src\main\resources
+2022-01-19 21:06:10,125 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 21:06:10,127 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\src\test\resources
+2022-01-19 21:07:19,180 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 21:07:19,182 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\src\main\resources
+2022-01-19 21:07:19,185 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 21:07:19,187 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\src\test\resources
+2022-01-19 21:07:36,883 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 21:07:36,884 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\src\main\resources
+2022-01-19 21:07:36,885 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-19 21:07:36,887 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\avila\OneDrive\Desktop\AdvanceJava\tourist_project\src\test\resources
+2022-01-19 21:10:24,273 [Worker-23: Launching OwnJPARunner] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/SingletonEMF: com.xworkz:SingletonEMF:0.0.1-SNAPSHOT with classifier null to /SingletonEMF/target/classes

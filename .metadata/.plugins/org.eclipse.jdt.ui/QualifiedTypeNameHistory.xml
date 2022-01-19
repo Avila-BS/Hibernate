@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.xworkz.data_company.entity.CountryEntity"/>
-    <fullyQualifiedTypeName name="com.xworkz.data_company.dao.CountryDAO"/>
-    <fullyQualifiedTypeName name="com.xworkz.data_company.dao.CountryDAOImp"/>
-    <fullyQualifiedTypeName name="com.xworkz.data_company.entity.StateEntity"/>
-    <fullyQualifiedTypeName name="com.xworkz.data_company.dao.StateDAO"/>
     <fullyQualifiedTypeName name="com.xworkz.data_company.dao.StateDAOImp"/>
     <fullyQualifiedTypeName name="com.xworkz.data_company.entity.CityEntity"/>
     <fullyQualifiedTypeName name="com.xworkz.data_company.dao.CityDAO"/>
@@ -13,9 +8,7 @@
     <fullyQualifiedTypeName name="com.xworkz.data_company.dao.PatientDAO"/>
     <fullyQualifiedTypeName name="com.xworkz.data_company.dao.PatientDAOImp"/>
     <fullyQualifiedTypeName name="org.hibernate.cfg.Configuration"/>
-    <fullyQualifiedTypeName name="javax.persistence.Persistence"/>
     <fullyQualifiedTypeName name="com.xworkz.tour.utility.EMFUtil"/>
-    <fullyQualifiedTypeName name="javax.persistence.EntityManagerFactory"/>
     <fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
     <fullyQualifiedTypeName name="javax.transaction.Transaction"/>
     <fullyQualifiedTypeName name="com.xworkz.tour.entity.TouristEntity"/>
@@ -60,4 +53,11 @@
     <fullyQualifiedTypeName name="com.xworkz.tour.dao.WebsiteDAO"/>
     <fullyQualifiedTypeName name="com.xworkz.tour.dao.WebsiteDAOImpl"/>
     <fullyQualifiedTypeName name="com.xworkz.tour.entity.WebsiteEntity"/>
+    <fullyQualifiedTypeName name="lombok.NoArgsConstructor"/>
+    <fullyQualifiedTypeName name="lombok.Data"/>
+    <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
+    <fullyQualifiedTypeName name="com.xworkz.tour.entity.VehicleDTO"/>
+    <fullyQualifiedTypeName name="javax.persistence.Persistence"/>
+    <fullyQualifiedTypeName name="com.xworkz.singleton.EMFUtil"/>
+    <fullyQualifiedTypeName name="javax.persistence.EntityManagerFactory"/>
 </qualifiedTypeNameHistroy>
