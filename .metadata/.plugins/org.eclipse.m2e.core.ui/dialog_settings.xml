@@ -7,6 +7,8 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="vendor_project"/>
+			<item value="stationary-productDistribution"/>
 			<item value="product-hibernate"/>
 			<item value="SingletonEMF"/>
 			<item value="tourist_project"/>

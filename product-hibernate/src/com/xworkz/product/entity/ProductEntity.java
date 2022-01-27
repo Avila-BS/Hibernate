@@ -24,7 +24,7 @@ import lombok.NoArgsConstructor;
 	@NamedQuery(name="getByNameAndId",query="select pro from ProductEntity pro where pro.name=:nm and pro.id=:sl"),
 	@NamedQuery(name="getMaxPrice",query="select max(pro.price) from ProductEntity pro"),
 	@NamedQuery(name="getTotalPrice",query="select sum(pro.price) from ProductEntity pro"),
-	//@NamedQuery(name="getByNameLike",query="select pro from ProductEntity pro where pro.name like :search+'%'")
+	@NamedQuery(name="getByNameLike",query="select pro from ProductEntity pro where pro.name like :search"),
 	@NamedQuery(name="getQuantityByName",query="select pro.quantity from ProductEntity pro where pro.name=:namee"),
 	@NamedQuery(name="getQuantityAndPriceByName",query="select pro.quantity,pro.price from ProductEntity pro where pro.name=:nam"),
 	@NamedQuery(name="getQuantityAndPriceByNameAndId",query="select pro.quantity,pro.price from ProductEntity pro where pro.name=:nam and pro.id=:i"),

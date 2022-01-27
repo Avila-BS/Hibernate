@@ -225,7 +225,7 @@ public List<ProductEntity> getByNameLike(String name)
 	EntityManager entityManager=EMFUtill.getEntityManagerFactory().createEntityManager();
 	try {
 		Query query=entityManager.createNamedQuery("getByNameLike");
-		query.setParameter("?",name);
+		query.setParameter("search","name"+"%");
 		return (List<ProductEntity>)query.getResultList();
 		
 	}
