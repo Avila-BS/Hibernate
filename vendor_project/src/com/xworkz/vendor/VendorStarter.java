@@ -11,7 +11,7 @@ import com.xworkz.vendor.service.VendorServiceImpl;
 public class VendorStarter {
 
 	public static void main(String[] args) {
-	VendorEntity entity = new VendorEntity("Jaydev","jaydev12creations@gmail.com","Jaydeva N","Ka01gdf579f","no 89,2nd cross,btm 2nd stage, Banglore","A12V67B89GH65","Namratha",LocalDateTime.now());
+	/*VendorEntity entity = new VendorEntity("Jaydev","jaydev12creations@gmail.com","Jaydeva N","Ka01gdf579f","no 89,2nd cross,btm 2nd stage, Banglore","A12V67B89GH65","Namratha",LocalDateTime.now());
 	VendorDAO dao=new VendorDAOImpl();
 	
 	VendorService service = new VendorServiceImpl(dao);
@@ -25,7 +25,14 @@ public class VendorStarter {
 service.validateAndSave(entity1);
 service.validateAndSave(entity2);
 service.validateAndSave(entity3);
-service.validateAndSave(entity4);
+service.validateAndSave(entity4);*/
+		
+		VendorDAO dao=new VendorDAOImpl();
+		VendorService service = new VendorServiceImpl(dao);
+		//boolean check=service.validateAndLogin("JaydevaN", "Ka01gdf579f");
+		//System.out.println(check);
+		//dao.updatePasswordByEmail("nirmala12creations@gmail.in", "Ka0fshhihhhh");
+		service.validateAndChangePassword("nirmala12creations@gmail.in", "Ka0fshhjjjjjjjj");
 
 	}
 
